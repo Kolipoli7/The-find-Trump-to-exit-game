@@ -1,2 +1,1 @@
-# The-find-Trump-to-exit-game
-I wanted to make something random and this is what i got.
+ATTENTION you won't be able to close the window without finding Trump. (you can still tab out)
