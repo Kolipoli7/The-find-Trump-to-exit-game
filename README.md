@@ -3,4 +3,5 @@ Tab out then read the Solution file if you can't find the solution  yourself.
 The game was only tested on windows 10 so don't run it on a system your not sure how to close if you can't find the solution.
 Please don't make evil comments it's my first own game with pygame.
 I learned everything from a youtube tutorial and from ChatGPT thank you.
-I made it in VSCode with python 3.12.10 and also make sure that pygame is installed
+I made it in VSCode with python 3.12.10 and also make sure that pygame is installed or download the whole folder and open the main.exe file if you open the exe everything is going to go on automaticly wait and the game will open.
+
